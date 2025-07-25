@@ -1,7 +1,7 @@
 # simple-tad
 [ICCVW 2025 accepted] Simplifying Traffic Anomaly Detection with Video Foundation Models
 
-Note: we will upload the code and the checkpoints by the camera-ready paper deadline on 25.07.2025!
+Note: we will upload the code and the checkpoints by the camera-ready paper deadline on ~~25.07.2025!~~ 18.08.2025! 
 
 ## Citation
 
