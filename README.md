@@ -6,6 +6,15 @@ Eindhoven University of Technology
 [![arXiv](https://img.shields.io/badge/cs.CV-2507.09338-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.09338)
 [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Models-SimpleTAD-blue)](https://huggingface.co/tue-mps/simple-tad) 
 
+<p align="center">
+  <a href="https://youtu.be/hY2hUlTNhCU" target="_blank">
+    <img src="figs/videos/PYL3JcSsS6o_004036_small-dapt.gif" width="49.5%" />
+  </a>
+  <a href="https://youtu.be/tKe2nTIHf9k" target="_blank">
+    <img src="figs/videos/Sihe6aeyLHg_000602_small-dapt.gif" width="49.5%" />
+  </a>
+</p>
+
 Recent methods for ego-centric Traffic Anomaly Detection (TAD) often rely on complex multi-stage or multi-representation fusion architectures, yet it remains unclear whether such complexity is necessary. Recent findings in visual perception suggest that foundation models, enabled by advanced pre-training, allow simple yet flexible architectures to outperform specialized designs. Therefore, in this work, we investigate an architecturally simple encoder-only approach using plain Video Vision Transformers (Video ViTs) and study how pre-training enables strong TAD performance. We find that: (i) advanced pre-training enables simple encoder-only models to match or even surpass the performance of specialized state-of-the-art TAD methods, while also being significantly more efficient; (ii) although weakly- and fully-supervised pre-training are advantageous on standard benchmarks, we find them less effective for TAD. Instead, self-supervised Masked Video Modeling (MVM) provides the strongest signal; and (iii) Domain-Adaptive Pre-Training (DAPT) on unlabeled driving videos further improves downstream performance, without requiring anomalous examples. Our findings highlight the importance of pre-training and show that effective, efficient, and scalable TAD models can be built with minimal architectural complexity.
 
 ![Simple_Main](figs/main.png)
@@ -85,3 +94,33 @@ If you think this project is helpful, please feel free to leave a star⭐️ and
   year={2025}
 }
 ```
+
+##
+
+<p align="center">
+  <a href="https://youtu.be/vPBKj9SF9yg" target="_blank">
+    <img src="figs/videos/0RJPQ_97dcs_004503_large-dapt.gif" width="49.5%" />
+  </a>
+  <a href="https://youtu.be/vGaYPZEuv5k" target="_blank">
+    <img src="figs/videos/y4Evv5By6sg_004171_large-dapt.gif" width="49.5%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/7rH0QP18zsk" target="_blank">
+    <img src="figs/videos/PEwiwzyTjX0_000589large-dapt.gif" width="49.5%" />
+  </a>
+  <a href="https://youtu.be/5ZNYwDGmOZI" target="_blank">
+    <img src="figs/videos/RASKiMoxhOE_000246_large-dapt.gif" width="49.5%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/X7Ij1sc4yCE" target="_blank">
+    <img src="figs/videos/T7TkJVmGyts_001011_large-dapt.gif" width="49.5%" />
+  </a>
+  <a href="https://youtu.be/S5m2ooY6CGc" target="_blank">
+    <img src="figs/videos/TNZv-NBcV5U_000066large-dapt.gif" width="49.5%" />
+  </a>
+</p>
+
