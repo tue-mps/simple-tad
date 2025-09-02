@@ -1,5 +1,7 @@
 # Model Zoo
 
+You can view all the available models here: [HF repo](https://huggingface.co/tue-mps/simple-tad/tree/main/models)
+
 ### DAPT (adapted) models
 
 |  Method  | Backbone | Initialized with | DAPT epochs |     DAPT data      | Checkpoint |
