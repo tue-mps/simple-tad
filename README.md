@@ -1,6 +1,6 @@
 # Simplifying Traffic Anomaly Detection with Video Foundation Models
 
-Svetlana Orlova, Tommie Kerssies, Brun´o B. Englert, Gijs Dubbelman \
+Svetlana Orlova, Tommie Kerssies, Brunó B. Englert, Gijs Dubbelman \
 Eindhoven University of Technology
 
 [![arXiv](https://img.shields.io/badge/cs.CV-2507.09338-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.09338)
