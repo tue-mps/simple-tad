@@ -80,13 +80,12 @@ Portions of the project are available under separate license terms:
 If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
 
 ```
-@InProceedings{Orlova_2025_ICCV,
-    author    = {Orlova, Svetlana and Kerssies, Tommie and Englert, Brun\'o B. and Dubbelman, Gijs},
-    title     = {Simplifying Traffic Anomaly Detection with Video Foundation Models},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-    month     = {October},
-    year      = {2025},
-    pages     = {852-862}
+@inproceedings{orlova2025simplifying,
+  title={Simplifying Traffic Anomaly Detection with Video Foundation Models},
+  author={Orlova, Svetlana and Kerssies, Tommie and Englert, Brun{\'o} B and Dubbelman, Gijs},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={852--862},
+  year={2025}
 }
 ```
 
